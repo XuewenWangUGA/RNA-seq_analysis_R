@@ -1,5 +1,5 @@
 # RNA-seq_analysis_R
-This is R script for RNA-Seq analysis and plot for our publication at 2017
+ R scripts for RNA-Seq analysis and plot for our publication at 2017
 
 # Script and function
 
