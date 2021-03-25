@@ -17,22 +17,7 @@ For plot and colorizing the differentially expressed genes in volcano plot
 
 For results and figures, please refer to 
 
-Title: Integrating transcriptome and microRNA analysis identifies genes and microRNAs for AHO-induced systemic acquired resistance in N. tabacum
+Citing: 
+Yongdui Chen, Jiahong Dong, Jeffrey L Bennetzen, Micai Zhong, Jun Yang, Jie Zhang, Shunlin Li, Xiaojiang Hao, Zhongkai Zhang, Xuewen Wang*, Integrating transcriptome and microRNA analysis identifies genes and microRNAs for AHO-induced systemic acquired resistance in N. tabacum, Scientific reports, 2017,volume 7
 
 [article link](https://www.nature.com/articles/s41598-017-12249-y)
-
-Authors
-
-Yongdui Chen, Jiahong Dong, Jeffrey L Bennetzen, Micai Zhong, Jun Yang, Jie Zhang, Shunlin Li, Xiaojiang Hao, Zhongkai Zhang, Xuewen Wang*
-
-Publication date
-
-2017/10/2
-
-Journal
-
-Scientific reports
-
-Volume
-
-7
